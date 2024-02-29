@@ -1,4 +1,4 @@
-//S ARITHMETIC IN C++
+//ARRAYS ARITHMETIC IN C++
 
 //an  is a collection of items of similar type stored-
 // in contiguous memory location.
