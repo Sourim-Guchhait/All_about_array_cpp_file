@@ -29,7 +29,7 @@ int main()
     cout << mathmarks [2] << endl;
     cout << mathmarks [3] << endl;
 
-    // you can change the value of the 
+    // you can change the value of the mathmarks 
     mathmarks[2] = 45;
     cout << "these are the marks " <<endl;
 
@@ -67,3 +67,4 @@ int main()
 
     return 0;
 }
+
